@@ -1,0 +1,11 @@
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\bin\Debug\net8.0\HanCreateWeapon.deps.json
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\bin\Debug\net8.0\HanCreateWeapon.dll
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\bin\Debug\net8.0\HanCreateWeapon.pdb
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\obj\Debug\net8.0\HanCreateWeapon.csproj.AssemblyReference.cache
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\obj\Debug\net8.0\HanCreateWeapon.GeneratedMSBuildEditorConfig.editorconfig
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\obj\Debug\net8.0\HanCreateWeapon.csproj.CoreCompileInputs.cache
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\obj\Debug\net8.0\HanCreateWeapon.sourcelink.json
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\obj\Debug\net8.0\HanCreateWeapon.dll
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\obj\Debug\net8.0\refint\HanCreateWeapon.dll
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\obj\Debug\net8.0\HanCreateWeapon.pdb
+E:\css\CS2\steamcmd\steamapps\common\cssharp\chajian\CounterStrikeSharp\counterstrikesharp\examples\HanCreateWeapon\obj\Debug\net8.0\ref\HanCreateWeapon.dll
